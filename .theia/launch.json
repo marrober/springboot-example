@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+        "type": "java",
+        "name": "CodeLens (Launch) - HelloWorld",
+        "request": "launch",
+        "mainClass": "HelloWorld",
+        "projectName": "demo"
+    },
+    {
         "type": "gdb",
         "name": "Debug current algorithm",
         "request": "launch",
